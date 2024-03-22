@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MissionEleven_Thatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec767682db51aec12249cbad19da0c626d12ae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56090b8565ca7d14000b0b6107924401929b6872")]
 [assembly: System.Reflection.AssemblyProductAttribute("MissionEleven_Thatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MissionEleven_Thatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
