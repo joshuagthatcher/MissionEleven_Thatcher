@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MissionEleven_Thatcher.props" />
+</Project>
